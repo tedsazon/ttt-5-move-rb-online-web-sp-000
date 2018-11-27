@@ -11,3 +11,5 @@ input = gets.strip
 input_to_index(index)
 
 move(board, index, player = "X")
+
+
